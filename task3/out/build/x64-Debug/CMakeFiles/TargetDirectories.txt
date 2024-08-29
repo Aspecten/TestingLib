@@ -1,0 +1,5 @@
+C:/Users/fanto/Desktop/testing/Testing/task3/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/fanto/Desktop/testing/Testing/task3/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fanto/Desktop/testing/Testing/task3/out/build/x64-Debug/task3/CMakeFiles/rebuild_cache.dir
+C:/Users/fanto/Desktop/testing/Testing/task3/out/build/x64-Debug/task3/CMakeFiles/task3.dir
+C:/Users/fanto/Desktop/testing/Testing/task3/out/build/x64-Debug/task3/CMakeFiles/edit_cache.dir
